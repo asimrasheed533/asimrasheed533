@@ -1,5 +1,5 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Muhammad Usman Tariq</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Asim Rasheed</h1>
 <h3 align="center">A Full Stack Developer from Devscot</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
@@ -8,17 +8,17 @@
 </p>
 
 - 🌱 I’m currently learning *Next.js*  
-- 💬 Ask me about *React Native, MERN Stack, and Full Stack Development*  
-- 📫 How to reach me *usmanjutt04747@gmail.com*  
-- 📞 Contact *0304-3061019*  
+- 💬 Ask me about *Next.js, MERN Stack, and Full Stack Development*  
+- 📫 How to reach me *asimrasheed@gmail.com*  
+- 📞 Contact *0300-4575442*  
 - ⚡ Fun fact *I have a secret stash of chocolate hidden near my desk for coding emergencies 🍫*  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammad-usman-tariq-ab33ab32a/" target="blank">
+<a href="https://www.linkedin.com/in/asim-rasheed-394183238/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad usman tariq" height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/usmanjutt0447" target="blank">
+<a href="https://www.instagram.com/asimrasheed004/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
 </a>
 </p>
